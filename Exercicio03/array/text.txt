@@ -1,0 +1,5 @@
+MY_ARRAY=(um dois tres quatro)
+
+echo MY_ARRAY ---> um
+echo ${MY_ARRAY[@]} ---> um dois tres quatro
+echo ${MY_ARRAY[1]} ---> dois
