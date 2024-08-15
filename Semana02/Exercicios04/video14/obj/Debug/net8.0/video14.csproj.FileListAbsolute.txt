@@ -1,0 +1,14 @@
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\Exercicio04\video14\bin\Debug\net8.0\video14.exe
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\Exercicio04\video14\bin\Debug\net8.0\video14.deps.json
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\Exercicio04\video14\bin\Debug\net8.0\video14.runtimeconfig.json
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\Exercicio04\video14\bin\Debug\net8.0\video14.dll
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\Exercicio04\video14\bin\Debug\net8.0\video14.pdb
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\Exercicio04\video14\obj\Debug\net8.0\video14.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\Exercicio04\video14\obj\Debug\net8.0\video14.AssemblyInfoInputs.cache
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\Exercicio04\video14\obj\Debug\net8.0\video14.AssemblyInfo.cs
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\Exercicio04\video14\obj\Debug\net8.0\video14.csproj.CoreCompileInputs.cache
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\Exercicio04\video14\obj\Debug\net8.0\video14.dll
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\Exercicio04\video14\obj\Debug\net8.0\refint\video14.dll
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\Exercicio04\video14\obj\Debug\net8.0\video14.pdb
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\Exercicio04\video14\obj\Debug\net8.0\video14.genruntimeconfig.cache
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\Exercicio04\video14\obj\Debug\net8.0\ref\video14.dll
