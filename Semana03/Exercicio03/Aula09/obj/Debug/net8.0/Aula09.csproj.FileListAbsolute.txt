@@ -1,0 +1,14 @@
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\7º Período\SEMB II\semana03\Exercicio03\Aula09\bin\Debug\net8.0\Aula09.exe
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\7º Período\SEMB II\semana03\Exercicio03\Aula09\bin\Debug\net8.0\Aula09.deps.json
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\7º Período\SEMB II\semana03\Exercicio03\Aula09\bin\Debug\net8.0\Aula09.runtimeconfig.json
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\7º Período\SEMB II\semana03\Exercicio03\Aula09\bin\Debug\net8.0\Aula09.dll
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\7º Período\SEMB II\semana03\Exercicio03\Aula09\bin\Debug\net8.0\Aula09.pdb
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\7º Período\SEMB II\semana03\Exercicio03\Aula09\obj\Debug\net8.0\Aula09.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\7º Período\SEMB II\semana03\Exercicio03\Aula09\obj\Debug\net8.0\Aula09.AssemblyInfoInputs.cache
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\7º Período\SEMB II\semana03\Exercicio03\Aula09\obj\Debug\net8.0\Aula09.AssemblyInfo.cs
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\7º Período\SEMB II\semana03\Exercicio03\Aula09\obj\Debug\net8.0\Aula09.csproj.CoreCompileInputs.cache
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\7º Período\SEMB II\semana03\Exercicio03\Aula09\obj\Debug\net8.0\Aula09.dll
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\7º Período\SEMB II\semana03\Exercicio03\Aula09\obj\Debug\net8.0\refint\Aula09.dll
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\7º Período\SEMB II\semana03\Exercicio03\Aula09\obj\Debug\net8.0\Aula09.pdb
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\7º Período\SEMB II\semana03\Exercicio03\Aula09\obj\Debug\net8.0\Aula09.genruntimeconfig.cache
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\7º Período\SEMB II\semana03\Exercicio03\Aula09\obj\Debug\net8.0\ref\Aula09.dll
