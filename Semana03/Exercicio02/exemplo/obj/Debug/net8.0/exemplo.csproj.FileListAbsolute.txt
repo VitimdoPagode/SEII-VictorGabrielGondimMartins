@@ -1,0 +1,14 @@
+d:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\7º Período\SEMB II\semana03\Exercicio02\exemplo\obj\Debug\net8.0\exemplo.GeneratedMSBuildEditorConfig.editorconfig
+d:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\7º Período\SEMB II\semana03\Exercicio02\exemplo\obj\Debug\net8.0\exemplo.AssemblyInfoInputs.cache
+d:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\7º Período\SEMB II\semana03\Exercicio02\exemplo\obj\Debug\net8.0\exemplo.AssemblyInfo.cs
+d:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\7º Período\SEMB II\semana03\Exercicio02\exemplo\obj\Debug\net8.0\exemplo.csproj.CoreCompileInputs.cache
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\7º Período\SEMB II\semana03\Exercicio02\exemplo\bin\Debug\net8.0\exemplo.exe
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\7º Período\SEMB II\semana03\Exercicio02\exemplo\bin\Debug\net8.0\exemplo.deps.json
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\7º Período\SEMB II\semana03\Exercicio02\exemplo\bin\Debug\net8.0\exemplo.runtimeconfig.json
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\7º Período\SEMB II\semana03\Exercicio02\exemplo\bin\Debug\net8.0\exemplo.dll
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\7º Período\SEMB II\semana03\Exercicio02\exemplo\bin\Debug\net8.0\exemplo.pdb
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\7º Período\SEMB II\semana03\Exercicio02\exemplo\obj\Debug\net8.0\exemplo.dll
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\7º Período\SEMB II\semana03\Exercicio02\exemplo\obj\Debug\net8.0\refint\exemplo.dll
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\7º Período\SEMB II\semana03\Exercicio02\exemplo\obj\Debug\net8.0\exemplo.pdb
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\7º Período\SEMB II\semana03\Exercicio02\exemplo\obj\Debug\net8.0\exemplo.genruntimeconfig.cache
+D:\Arquivos\bkp meu\BKP VITIM\Livros\Universidade\7º Período\SEMB II\semana03\Exercicio02\exemplo\obj\Debug\net8.0\ref\exemplo.dll
