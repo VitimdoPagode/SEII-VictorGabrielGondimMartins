@@ -1,0 +1,15 @@
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercício02\bin\Debug\net8.0\Exercício02.exe
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercício02\bin\Debug\net8.0\Exercício02.deps.json
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercício02\bin\Debug\net8.0\Exercício02.runtimeconfig.json
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercício02\bin\Debug\net8.0\Exercício02.dll
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercício02\bin\Debug\net8.0\Exercício02.pdb
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercício02\obj\Debug\net8.0\Exercício02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercício02\obj\Debug\net8.0\Exercício02.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercício02\obj\Debug\net8.0\Exercício02.AssemblyInfo.cs
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercício02\obj\Debug\net8.0\Exercício02.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercício02\obj\Debug\net8.0\Exercício02.sourcelink.json
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercício02\obj\Debug\net8.0\Exercício02.dll
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercício02\obj\Debug\net8.0\refint\Exercício02.dll
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercício02\obj\Debug\net8.0\Exercício02.pdb
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercício02\obj\Debug\net8.0\Exercício02.genruntimeconfig.cache
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercício02\obj\Debug\net8.0\ref\Exercício02.dll

@@ -1,0 +1,15 @@
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercicio03\Atividade07\bin\Debug\net8.0\Atividade07.exe
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercicio03\Atividade07\bin\Debug\net8.0\Atividade07.deps.json
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercicio03\Atividade07\bin\Debug\net8.0\Atividade07.runtimeconfig.json
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercicio03\Atividade07\bin\Debug\net8.0\Atividade07.dll
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercicio03\Atividade07\bin\Debug\net8.0\Atividade07.pdb
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercicio03\Atividade07\obj\Debug\net8.0\Atividade07.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercicio03\Atividade07\obj\Debug\net8.0\Atividade07.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercicio03\Atividade07\obj\Debug\net8.0\Atividade07.AssemblyInfo.cs
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercicio03\Atividade07\obj\Debug\net8.0\Atividade07.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercicio03\Atividade07\obj\Debug\net8.0\Atividade07.sourcelink.json
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercicio03\Atividade07\obj\Debug\net8.0\Atividade07.dll
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercicio03\Atividade07\obj\Debug\net8.0\refint\Atividade07.dll
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercicio03\Atividade07\obj\Debug\net8.0\Atividade07.pdb
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercicio03\Atividade07\obj\Debug\net8.0\Atividade07.genruntimeconfig.cache
+D:\Arquivos\GitHub\SEII-VictorGabrielGondimMartins\Semana05\Exercicio03\Atividade07\obj\Debug\net8.0\ref\Atividade07.dll
